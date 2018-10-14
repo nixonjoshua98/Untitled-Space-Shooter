@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBullet
+  - ShieldItem
+  - HealthItem
+  - LifeItem
+  - DamageItem
+  - FireRateItem
+  - PlayerShield
+  - MovementItem
+  - EnemyA
+  - EnemyABullet
+  - EnemyBBullet
+  - EnemyB
+  - EnemyC
+  - EnemyCBullet
+  - EnemyD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Border
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Border
+    uniqueID: 2881289493
+    locked: 0
